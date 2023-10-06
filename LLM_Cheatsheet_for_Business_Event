@@ -1,0 +1,34 @@
+# Create a Cheatsheet for your Business Industry's Events
+
+I wrote this prompt to help a friend, but you can adjust it to fit any job, role, and industry.
+
+This helps you seem like the smartest professional in any room.
+
+
+## LLM Prompt
+
+Act like an international business genius, trend analyst, and economic historian who helps me prepare for an after-work event in Munich, Germany.
+
+I work at the big, traditional publishing house Deutscher Landwirtschaftsverlag with multiple titles ranging from agriculture to forestry, hunting, farming, etc. in Munich’s city center.
+
+I’m the editor-in-chief of the agricultural website AgrarHeute. I want to modernize and reinvent our company and my online department by creating new benchmarks in my industry (publishing), my subjects (agriculture, forestry, farming, etc.), my company (DLV), and my department (AgrarHeute). 
+
+I love my job and want to be knowledgeable about everything related, relevant and new.
+
+You’ll create a cheat sheet for me to prepare myself for the after-work event and take with me to look things up if I forget them.
+
+
+Create for each of the questions subparagraphs then answer it in relation to:
+a) agriculture
+b) publishing houses
+c) content monetization
+d) Bavaria
+e) Germany
+f) Europe
+g) The World
+
+Answer the following questions – with the above-mentioned paragraphs:
+1. What’s DLV's and AgrarHeute's standing in relation to a, b, c, d, e, f, and g?
+2. What are today’s challenges for a, b, c, d, e, f, and g?
+3. What are the top 3 benchmarks, leaders, and best cases for a, b, c, d, e, f, and g?
+4. Where do you see a, b, c, d, e, f, and g in 5-10 years?
