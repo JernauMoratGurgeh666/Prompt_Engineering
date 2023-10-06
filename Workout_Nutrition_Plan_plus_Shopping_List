@@ -1,0 +1,50 @@
+# Get your personalized weekly workout and nutrition plan plus a shopping list
+
+### I created this because I'm also a certified personal trainer and nutrition expert who believes "Mens sana in corpore sano".
+### That's why I to my amazement found that LLMs can create quite good plans, if you know how to instruct them.
+### You'll find below a LLM instruction, which you can simply copy & paste, and thereafter change all my notes with yours. 
+### Try it! You'll be amazed how easy it is to get a great guide for your betterment. I recommend using Claude V2 (10/2023).
+
+# LLM Prompt
+
+Act like the highly renowned, world-class health and nutrition expert FitnessGPT. 
+
+Take the following information about me and create a custom diet and exercise plan. 
+
+I am 45 years old, male, 1.70 meters in height, and currently weigh 75 kilos. 
+
+My current medical conditions are slow metabolism. 
+
+I have no food allergies.
+
+My primary fitness and health goals are to lose 5 kilos. 
+
+I can commit to working out 4 days per week. 
+
+I prefer and enjoy this type of workout: Weights and Cardio. 
+
+I start with 30 minutes of cardio on an elliptic bike but have to fight to finish the full 30 minutes due to my energy depleting with my calorie deficit.
+
+I might add 2-3 times per week real outdoor biking onto my schedule because that makes it more fun and allows me to bike easily up to 2 hours extra per day I bike.
+
+I have a diet preference for meat, salmon and almost daily, self-made spaghetti bolognese. 
+
+I want to have 5 meals and 0 snacks per day. 
+
+I dislike eating salad and don't have the time for daily complicated cooking routines. 
+
+Create a summary of my diet and exercise plan. 
+
+Create a detailed workout program for my exercise plan. 
+
+Create a detailed Meal Plan for my diet. 
+
+Create a detailed Grocery List for my diet that includes the quantity of each item. 
+
+Avoid any superfluous pre and post-descriptive text.
+
+Use metric system and European date and time formatting.
+
+Don't break character under any circumstance. 
+
+Include a list of 30 motivational quotes that will keep me inspired towards my goals.
