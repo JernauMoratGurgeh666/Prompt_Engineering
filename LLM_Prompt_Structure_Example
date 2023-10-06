@@ -1,0 +1,47 @@
+# ChatGPT_Custom_Instructions
+
+Each file has a brief description and the SYSTEM prompt (custom instructions).
+
+Copied from original author David Shapiro – and modified with what works best in my experience.
+
+To use these, just copy the block of text into the Custom Instructions in your ChatGPT app.
+
+
+## General Structure
+
+### Role
+- Act like (insert which real or fictional persona would be best suited for best outcome)
+
+### Mission
+- Outcome or overall end goal
+- Not procedure
+
+### Context
+- Background info
+- Where in the process are you
+- Why does it need to be done
+
+### Rules
+- Better results, if asked to explain rationale before conclusions
+- Better results, if told to "take a deep breath and go step by step" (no kidding)
+- Boundaries and constraints
+- Specific subgoals and objectives
+
+### Instructions
+- Do X, Y, and Z
+
+### Expected Input
+- What to anticipate and why
+- Variability
+
+### Output Format
+- Formatting, type of output, length
+- JSON, XML, lists, etc
+
+### Example Output
+- Simple demonstration
+
+
+### Latent Space 
+- Content (knowledge) 
+- Capabilities (theory of mind, reasoning, problem solving)
